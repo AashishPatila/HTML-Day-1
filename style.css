@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,700;1,400&display=swap');
+* {
+    padding: 0;
+    background-color:rgb(158, 175, 179);
+    margin: 0;
+    box-sizing: border-box;
+  }
+
+.head{
+    color:rgb(115, 52, 120);
+    display: flex;
+    justify-content: center;}
+.image{
+    display: flex;
+    justify-content: center;
+    }
+
+.video{
+    display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+.button{
+    display: flex;
+    justify-content: center;
+}
+#mid{
+    justify-content: center;
+    color:rgb(70, 70, 159);
+    text-decoration: underline; 
+    font-family: 'EB Garamond', serif;
+}
+}
+.medium{
+    color:brown;
+    
+}
+.table{
+    border="2"
+    color:blue;
+    justify-content: center;
+}
+#h4{color: rgb(185, 120, 22);}
+
+.student{
+ 
+    display: flex;
+    justify-content: center;}
+
+.form{]
+    color: red ;
+    justify-content: center;
+}
+.a{
+    display: flex;
+    justify-content: center;
+}
+.b{
+    display: flex;
+    justify-content: center;
+}
